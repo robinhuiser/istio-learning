@@ -1,0 +1,3 @@
+[submodule "github.com/istio-fleetman"]
+	path = github.com/istio-fleetman
+	url = https://github.com/DickChesterwood/istio-fleetman.git
