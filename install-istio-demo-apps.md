@@ -101,6 +101,8 @@ kubectl get svc -n istio-system | grep kiali
 kiali                       NodePort       10.100.122.48    <none>        20001:31000/TCP     137m
 ~~~
 
+The Jaeger UI can be found on [http://localhost:31001](http://localhost:31001) - this has been prepared by the trainer (hence - not a defaut).
+
 ## Temporarily patch the app
 
 While the instructor explained the application deployment YAML had no Istio definitions, it seems the section below was an exception:

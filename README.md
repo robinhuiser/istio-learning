@@ -10,4 +10,5 @@ My scribbles made during the Udemy's [Istio Hands-On for Kubernetes](https://www
 
 ## Course notes
 
-1. [Install Istio and demo app](./install-istio-demo-apps.md)
+1. [Install Istio and demo app](./install-istio-demo-apps.md) (sections 1-3)
+1. [Istio Architecture Overview](./4-istio-architecture.md)
